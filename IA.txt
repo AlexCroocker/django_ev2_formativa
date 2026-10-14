@@ -1,1 +1,1 @@
-- por el momento no se uso
+- se uso para formatear montos a pesos chilenos aunque no se nota el cambio
